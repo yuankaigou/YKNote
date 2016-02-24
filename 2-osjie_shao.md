@@ -4,9 +4,6 @@
 
 Mac OS
 
-
-
-
 iPhone OS
 
 
