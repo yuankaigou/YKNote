@@ -5,13 +5,15 @@
 Mac OS
 
 
+
+
 iPhone OS
 
 
 
 ##Mac OS系统介绍
 
-
+文件的创建 和 截图
 	(1) 开关机, 开始菜单
 	Dock
 	切换程序是command + tab
