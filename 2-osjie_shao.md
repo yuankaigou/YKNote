@@ -1,7 +1,15 @@
 # 2-OS介绍
+
+
+
+
 ##Mac OS系统介绍
 
 文件的创建 和 截图
+
+
+
+
 	(1) 开关机, 开始菜单
 	Dock
 	切换程序是command + tab
@@ -42,7 +50,7 @@ histroy
 
 mkdir XXX YYY ZZZ …
 
-rmdir XXX YYY ZZZ … 删一个或者多个目录
+rmdir XXX YYY ZZZ … 
 
 touch XXX YYY ZZZ … 
 
